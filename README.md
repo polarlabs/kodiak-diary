@@ -17,7 +17,7 @@ Sorting: traveling back in time, i.e. from newest to oldest.
 
 :pencil: [17th of Nov 2023](2023-11/2023-11-17.md)
 
-:pencil: [16th of Nov 2023](2023-11/2023-11-16.md)
+:heavy_check_mark: [16th of Nov 2023](2023-11/2023-11-16.md)
 
 :heavy_check_mark: [15th of Nov 2023](2023-11/2023-11-15.md)
 
