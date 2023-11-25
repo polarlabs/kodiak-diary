@@ -11,11 +11,17 @@ Sorting: traveling back in time, i.e. from newest to oldest.
 
 ## Nov 2023
 
+:pencil: [29nd of Nov 2023](2023-11/2023-11-29.md)
+
+:pencil: [28nd of Nov 2023](2023-11/2023-11-28.md)
+
+:pencil: [27nd of Nov 2023](2023-11/2023-11-27.md)
+
 :pencil: [26nd of Nov 2023](2023-11/2023-11-26.md)
 
-:pencil: [25nd of Nov 2023](2023-11/2023-11-25.md)
+:heavy_check_mark: [25nd of Nov 2023](2023-11/2023-11-25.md)
 
-:pencil: [24nd of Nov 2023](2023-11/2023-11-24.md)
+:heavy_check_mark: [24nd of Nov 2023](2023-11/2023-11-24.md)
 
 :heavy_check_mark: [23nd of Nov 2023](2023-11/2023-11-23.md)
 
