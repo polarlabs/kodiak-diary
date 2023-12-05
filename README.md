@@ -9,9 +9,23 @@ Sorting: traveling back in time, i.e. from newest to oldest.
 
 :heavy_check_mark: Done.
 
+## Dec 2023
+
+:pencil: [6th of Dec 2023](2023-12/2023-12-06.md)
+
+:pencil: [5th of Dec 2023](2023-12/2023-12-05.md)
+
+:heavy_check_mark: [4th of Dec 2023](2023-12/2023-12-04.md)
+
+:heavy_check_mark: [3rd of Dec 2023](2023-12/2023-12-03.md)
+
+:heavy_check_mark: [2nd of Dec 2023](2023-12/2023-12-02.md)
+
+:heavy_check_mark: [1st of Dec 2023](2023-12/2023-12-01.md)
+
 ## Nov 2023
 
-:pencil: [30th of Nov 2023](2023-11/2023-11-30.md)
+:heavy_check_mark: [30th of Nov 2023](2023-11/2023-11-30.md)
 
 :heavy_check_mark: [29th of Nov 2023](2023-11/2023-11-29.md)
 
