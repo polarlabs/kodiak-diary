@@ -11,7 +11,9 @@ Sorting: traveling back in time, i.e. from newest to oldest.
 
 ## Dec 2023
 
-:pencil: [6th of Dec 2023](2023-12/2023-12-06.md)
+:pencil: [7th of Dec 2023](2023-12/2023-12-07.md)
+
+:heavy_check_mark: [6th of Dec 2023](2023-12/2023-12-06.md)
 
 :heavy_check_mark: [5th of Dec 2023](2023-12/2023-12-05.md)
 

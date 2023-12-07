@@ -25,6 +25,8 @@ This is our backlog. Actions items are listed in descending priority.
 
 # Other topics
 
+:pencil: Rethink caching of Rust projects in GitHub Actions.
+
 :pencil: Write an article in Kodiak KB describing the approach for testing.
 
 :pencil: Adopt GitHub Actions of Kodiak web client to branching model.
